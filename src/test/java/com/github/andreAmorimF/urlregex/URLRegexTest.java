@@ -1,4 +1,4 @@
-package br.com.urlregex;
+package com.github.andreAmorimF.urlregex;
 
 import org.junit.Test;
 
