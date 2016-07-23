@@ -21,8 +21,17 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/andreAmorimF/urlregex.git</url>
+        <connection>scm:git:git://github.com/andreAmorimF/urlregex.git</connection>
+        <developerConnection>scm:git:ssh://github.com:simpligility/urlregex.git</developerConnection>
+        <url>http://github.com/andreAmorimF/urlregex/tree/master</url>
     </scm>
+
+    <developers>
+        <developer>
+            <name>André Fonseca</name>
+            <email>andre.amorimfonseca@gmail.com</email>
+        </developer>
+    </developers>
 
 
     <build>
