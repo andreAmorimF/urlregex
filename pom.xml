@@ -8,6 +8,22 @@
     <artifactId>urlregex</artifactId>
     <version>1.0</version>
 
+    <name>URLRegex</name>
+    <description>Java library for build regular expressions from a set of URLs</description>
+    <url>https://github.com/andreAmorimF/urlregex</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/andreAmorimF/urlregex.git</url>
+    </scm>
+
 
     <build>
         <plugins>
