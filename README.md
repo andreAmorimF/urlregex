@@ -9,7 +9,7 @@ If you are using Maven, just add to the _dependencies_ section of your _pom.xml_
 
 ```xml
 <dependency>
-    <groupId>com.br</groupId>
+    <groupId>com.github.andreAmorimF</groupId>
     <artifactId>urlregex</artifactId>
     <version>1.0</version>
 </dependency>
